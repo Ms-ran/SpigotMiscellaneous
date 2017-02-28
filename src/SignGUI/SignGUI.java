@@ -25,9 +25,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-/**
- * Created by Michael on 28.02.2017.
- */
 public class SignGUI extends JavaPlugin implements CommandExecutor {
 
     // Maps the UUID of a Player to the Location of the SignGUI that he opened
